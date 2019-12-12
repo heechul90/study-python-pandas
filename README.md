@@ -1,4 +1,4 @@
-### 교재 : Pandas로 하는 데이터 과학 2/e [파이썬 통계 분석 라이브러리]
+# 교재 : Pandas로 하는 데이터 과학 2/e [파이썬 통계 분석 라이브러리]
 ## 원서명 : Learning pandas - Second Edition: High-performance data manipulation and analysis in Python (ISBN 9781787123137)
 ## 지은이 : 마이클 헤이트(Michael Heydt)
 ## 옮긴이 : 이태상
@@ -19,8 +19,6 @@
 ## * 이 책의 대상 독자
 Pandas를 이용한 데이터 분석에 빠져보고 싶은 데이터 과학자, 데이터 분석가, 파이썬 프로그래머 또는 데이터 분석에 관심이 있는 누구에게나 적합하다. 통계와 프로그래밍에 대한 약간의 지식이 있다면 더욱 도움이 되겠지만, 반드시 필요한 조건은 아니다. Pandas에 대한 경험 역시 필요하지 않다.
 
-
-* <a href="https://github.com/PinkWink/DataScience">소스코드</a>
 
 
 ![](http://acornpub.co.kr/tb/detail/book/nt/jm/1536773251M9Zu3jXy.jpg)
