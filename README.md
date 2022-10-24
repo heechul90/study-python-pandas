@@ -22,3 +22,5 @@ Pandas를 이용한 데이터 분석에 빠져보고 싶은 데이터 과학자,
 
 
 ![](http://acornpub.co.kr/tb/detail/book/nt/jm/1536773251M9Zu3jXy.jpg)
+
+[[이전으로]](https://github.com/heechul90/study-python-basic-2)
